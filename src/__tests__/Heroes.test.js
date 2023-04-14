@@ -13,8 +13,9 @@ const listHeroes = [
       attack: 10,
       defence: 40,
       level: 1,
-      distance: 1,
+      actualDistance: 1,
       isStoned: false,
+      attackPower: 0,
     },
   ],
   [
@@ -27,8 +28,9 @@ const listHeroes = [
       attack: 10,
       defence: 40,
       level: 1,
-      distance: 1,
+      actualDistance: 1,
       isStoned: false,
+      attackPower: 0,
     },
   ],
 ];
